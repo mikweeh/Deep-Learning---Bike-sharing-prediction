@@ -1,7 +1,8 @@
 # Bike sharing prediction project
 
 This is an AI project that is part of Udacity's Deep Learning nanodegree.
-The goal is to build a neural network and use it to predict daily bike rental ridership.
+The goal is to build a neural network and use it to predict daily bike rental ridership. This is going
+to be done using numpy (and not pytorch) to be able to fully understand the process and the math behind neural networks.
 
 
 ### Dataset
